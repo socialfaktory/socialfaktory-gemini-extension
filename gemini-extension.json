@@ -1,7 +1,7 @@
 {
   "name": "socialfaktory",
   "version": "1.0.0",
-  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel it connected.",
+  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
   "mcpServers": {
     "socialfaktory": {
       "httpUrl": "https://www.socialfaktory.com/mcp",

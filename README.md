@@ -17,9 +17,10 @@ paste and no client id to create: the CLI registers itself and signs in through 
 ## What the consent screen asks
 
 1. Sign in to SocialFaktory if you are not already.
-2. Tick what the CLI may do. **Read** sees your brands, media and posts. **Generate** creates
-   video and text on your credits. **Publish** schedules and sends posts on your channels,
-   so leave it off until you trust the brief.
+2. Tick what the CLI may do. **Read** sees your brands, media and posts, and can record a
+   video link for a later swap. **Generate** creates video and text on your credits and takes
+   your own uploads. **Publish** schedules and sends posts on your channels, so leave it off
+   until you trust the brief.
 3. Pin the connection to one brand, or leave it on all brands.
 4. Choose how long the connection lasts: 30, 60 or 90 days.
 5. Set a monthly credit cap, or leave it empty for none, and press Connect. Reading is free
