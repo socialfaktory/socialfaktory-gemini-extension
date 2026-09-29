@@ -8,7 +8,7 @@ the metrics back.
 ## Install
 
 ```bash
-gemini extensions install https://github.com/adifsgaid/socialfaktory-gemini-extension
+gemini extensions install https://github.com/socialfaktory/socialfaktory-gemini-extension
 ```
 
 The first call opens a SocialFaktory consent screen in your browser. There is no token to
